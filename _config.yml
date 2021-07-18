@@ -29,6 +29,9 @@ instagram_username: sang_ila
 github_username: SKKUGoon
 
 # Build settings
+markdown: kramdown
+kramdown:
+  math_engine: katex
 theme: minima
 plugins:
   - jekyll-feed
