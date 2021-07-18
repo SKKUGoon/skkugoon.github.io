@@ -22,6 +22,6 @@ Take this for an example:
 $$f(i) = f(i-1) + f(i-2)$$
 $$where i \geq 2$$
 
-<img src="https://render.githubusercontent.com/render/math?math=f(i) = f(i-1) + f(i-2)">
+<img src="https://render.githubusercontent.com/render/math?math=f(i) = f(i-1) \+ f(i-2)">
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
