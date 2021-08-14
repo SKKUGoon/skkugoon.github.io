@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Notes on Barclays report regarding U.S Retail Options Trading Strategy"
+date:   2021-08-14 15:00:00 +0900
+categories: financial report
+---
+
+
 # Notes on Barclays report regarding U.S Retail Options Trading Strategy
 
 <b>I've just begun to work at an asset management company as a quant in Seoul, South Korea. I do not, and cannot provide any 
