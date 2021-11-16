@@ -207,7 +207,7 @@ def auto_encoder(init_inputdim:int):
     After the training, I inserted the periods after May 2021, and checked the prediction errors. 
 </p>
 
-![plot](../_pics/시그널_기준선.png)
+![plot](../img/시그널_기준선.png)
 
 <p>
     The orange line illustrates the signal threshold I've set. To mitigate the signal changing so rapidly, 
@@ -215,7 +215,7 @@ def auto_encoder(init_inputdim:int):
     It lags slightly behind the original signal(blue line) but, it'll do the trick just fine.
 </p>
 
-![plot](../_pics/시그널_기준선_이평.png)
+![plot](../img/시그널_기준선_이평.png)
 
 <p>
     To test the theory, I've created a Dummy-Portfolio. It only consists of 1 stocks and it only has 2 states.
@@ -375,7 +375,7 @@ These are the result:
 
 ## Result
 
-![plot](../_pics/포트폴리오_주황exp_파랑ctrl.png)
+![plot](../img/포트폴리오_주황exp_파랑ctrl.png)
 
 <p>
 Orange line represents the experimental portfolio while the blue one represents the control group.
