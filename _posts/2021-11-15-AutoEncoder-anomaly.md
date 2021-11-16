@@ -107,6 +107,5 @@ def callbacks_es(monitor_val, waitfor):
         patience=waitfor
     )
     return es
-
 ```
 
