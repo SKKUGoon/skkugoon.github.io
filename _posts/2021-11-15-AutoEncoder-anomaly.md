@@ -90,7 +90,7 @@ def gen_factor(X):
     Also to monitor the whole process, I've utilized tensorboard callback.
 </p>
 
-{% highlight ruby %}
+```
 import tensorflow as tf
 
 
@@ -108,4 +108,5 @@ def callbacks_es(monitor_val, waitfor):
     )
     return es
 
-{% endhighlight %}
+```
+
