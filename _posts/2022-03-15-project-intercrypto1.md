@@ -8,7 +8,9 @@ categories: Trading Project
 # Project Inter-Market Crypto Trading Bot
 <p>
     파이썬으로는 구현한지 오래 되었지만, 이번에 백엔드를 Golang으로 바꿔보고, Golang을 사용하는 과정을
-    기록하고자 다음 포스팅을 시작해본다.
+    기록하고자 다음 포스팅을 시작해본다. 
+   참고로, 이번 포스팅에서는 (몇 개가 될진 모르겠지만), 거래 전략은 공개하지 않을 것이므로, 
+이런 것들이 필요하다면 다른 사이트들을 조사해보는게 어떨까 싶다.  
 </p>
 
 ## 1 Trader - 1 Signal Bot
