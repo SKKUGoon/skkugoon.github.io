@@ -32,7 +32,7 @@ github_username: SKKUGoon
 markdown: kramdown
 kramdown:
   math_engine: katex
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
